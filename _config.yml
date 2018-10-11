@@ -1,6 +1,6 @@
 # Site settings
-title: Fxxjdedd
-SEOTitle: Fxxjdedd的博客 | Fxxjdedd Blog
+title: 腾达
+SEOTitle: 腾达的博客 | Tengda Blog
 header-img: img/home-bg.jpg
 email: fxxjdedd@gmail.com
 description: ""
@@ -50,7 +50,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: fxxjdedd
+duoshuo_username: tengda
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -69,7 +69,7 @@ ba_track_id: d4c9a1e01f0315e4043ba7e11527e509
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "INNVOCATION FOR EVERYONE"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-tengda.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
